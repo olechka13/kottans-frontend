@@ -1,3 +1,3 @@
 # kottans-frontend
 ## Repository for course kottans-frontend.
-To learn new skills or information is always cool
+Hello. My name is Olga. I like learn new skills. Thanks Kottans for this opportunity
