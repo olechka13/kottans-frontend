@@ -1,3 +1,3 @@
 # kottans-frontend
-Repository for course kottans-frontend.
-Getting new knowledge is always cool
+## Repository for course kottans-frontend.
+To learn new skills or information is always cool
